@@ -1,5 +1,7 @@
 import app from './app';
 
-app.listen(3000, () => {
-console.log('Servidor corriendo en puerto 3000');
+const PORT: number = Number(process.env.PORT) || 3000;
+
+app.listen(PORT, () => {
+console.log(`☕ Servidor de Cafetería Origen corriendo en http://localhost:${PORT}`);
 });
