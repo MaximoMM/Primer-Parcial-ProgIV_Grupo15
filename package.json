@@ -8,9 +8,19 @@
     "dev": "tsx watch server.ts",
     "build": "tsc",
     "start": "node dist/server.js",
-    "test": "vitest",
-    "test:run": "vitest run"
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit"
   },
+  "keywords": [
+    "cafeteria-origen",
+    "express",
+    "typescript",
+    "tdd",
+    "vitest",
+    "poo"
+  ],
+  "author": "Grupo 15 - Programación IV",
   "dependencies": {
     "express": "^4.21.0"
   },
