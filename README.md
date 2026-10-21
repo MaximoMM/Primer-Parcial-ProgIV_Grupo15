@@ -6,4 +6,4 @@
 * Tiago De Rosa
 
 ### Explicacion del codigo
-* **Link del video (YouTube):** [(LINK DEL VIDEO AQUI)]
+* **Link del video (YouTube):** [https://youtu.be/ipf8EPkTzh0]
